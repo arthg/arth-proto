@@ -1,0 +1,14 @@
+{
+  "activities":[
+    {
+      "date": "string",
+      "activity": "ski",
+      "duration": "60",
+      "distance": "5",
+      "location": "Bertram",
+      "comments": [
+        "forest"
+      ]
+    }
+  ]
+}
