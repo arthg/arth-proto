@@ -1,7 +1,8 @@
 {
   "activities":[
     {
-      "date": "string",
+      "id": 1,
+      "date": "01",
       "activity": "ski",
       "duration": "60",
       "distance": "5",
